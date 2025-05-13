@@ -9,7 +9,7 @@
 
 ---
 
-### [fundl-web](https://github.com/fundl-organization/fundl-web)
+### [fundl-frontend](https://github.com/fundl-organization/fundl-frontend)
 > Next.js, TypeScript, shadcn, Tailwind
 
 📖 Client application
